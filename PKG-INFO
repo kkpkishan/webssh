@@ -2,9 +2,9 @@ Metadata-Version: 1.1
 Name: webssh
 Version: 1.5.2
 Summary: Web based ssh client
-Home-page: https://github.com/huashengdun/webssh
-Author: Shengdun Hua
-Author-email: webmaster0115@gmail.com
+Home-page: https://github.com/kkpkishan/webssh.git
+Author: Kishan Khatrani
+Author-email: kkpkishan@gmail.com
 License: MIT
 Description: WebSSH
         ------
